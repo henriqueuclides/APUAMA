@@ -1,0 +1,13 @@
+name: APUAMA
+title: APUAMA
+username:
+account: henriqueuclides
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4577121
+bundleId: 6204713
+url: https://henriqueuclides.shinyapps.io/apuama/
+when: 1660614050.61021
+lastSyncTime: 1660614050.61025
+asMultiple: FALSE
+asStatic: FALSE
