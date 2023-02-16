@@ -1,6 +1,6 @@
 #include <Rcpp.h>
 using namespace Rcpp;
-//comment
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
